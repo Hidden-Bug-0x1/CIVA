@@ -1,6 +1,10 @@
 #ifndef PIXEL_HPP
 #define PIXEL_HPP
 
+/*
+  v1.0.0
+*/
+
 #include <stdlib.h>
 
 class Pixel {
