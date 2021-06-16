@@ -1,6 +1,6 @@
-Author: George
-Project: CIVA (Custom Image Viewing Application)
-Version: 1.0.0
+- Author: Hidden-Bug-0x1
+- Project: CIVA (Custom Image Viewing Application)
+- Version: 1.0.0
 
 # Purpose:
 
