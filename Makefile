@@ -13,7 +13,7 @@ COBJS=$(patsubst $(SRC)/%.c, $(OBJ)/%.o, $(CSRCS))
 CPPOBJS=$(patsubst $(SRC)/%.cpp, $(OBJ)/%.o, $(CPPSRCS))
 
 BIN=bin
-OUT=cisa
+OUT=civa
 
 $(BIN)/$(OUT): $(COBJS) $(CPPOBJS)
 	$(CXX) -o $@ $(SRC)/main.cpp 
